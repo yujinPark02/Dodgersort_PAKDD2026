@@ -4,4 +4,4 @@
 
 > 🏆 **This work received the Best Student Paper Award at PAKDD 2026.**
 
-Official implementation of **Dodgersort**, an uncertainty-aware, VLM-guided human-in-the-loop pairwise ranking algorithm.
+Official implementation of **[Dodgersort](https://dl.acm.org/doi/abs/10.1007/978-981-92-1468-6_32)**, an uncertainty-aware, VLM-guided human-in-the-loop pairwise ranking algorithm.
